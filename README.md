@@ -1,1 +1,2 @@
 # Bank-management-system
+Bank Management System is a comprehensive Java-based application designed to manage and automate various banking operations. It provides an efficient and user-friendly interface for bank staff to perform day-to-day tasks, ensuring accuracy and security in financial transactions. This repository contains the complete source code for the Bank Management System, making it a valuable resource for learning and implementing banking software solutions.
